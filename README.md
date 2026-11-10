@@ -9,6 +9,7 @@ Additionally, I made this tool to make a repetitive task easier. If you plan on 
 In order to use the calculator, you need to have a Java Runtime installed with a version of at least 25.0.5.
 
 Java installations can be found here:
+
 [Official from Oracle](https://www.oracle.com/java/technologies/downloads/)
 
 [Adoptium Openjdk](https://adoptium.net/temurin/releases)
